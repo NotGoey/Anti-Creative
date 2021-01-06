@@ -1,4 +1,4 @@
-package net.thegamehubmc.testplugin;
+package net.thegamehubmc.anticreative;
 
 import static org.junit.Assert.assertTrue;
 
